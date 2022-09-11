@@ -16,6 +16,6 @@
 
 
 #
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mins00oo&show_icons=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mins00oo&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mins00oo&layout=compact&theme=tokyonight)
 
