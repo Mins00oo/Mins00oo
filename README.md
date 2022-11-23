@@ -1,6 +1,5 @@
 <h3>🔥 Tech Stack 🔥</h3>
 <p><img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
 <img src="https://img.shields.io/badge/Spring security-6DB33F?style=flat&logo=Spring Security&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
