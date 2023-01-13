@@ -14,6 +14,6 @@
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Intellij-000000?style=flat&logo=Intellij-IDEA&logoColor=white"> <img src="https://img.shields.io/badge/jira-0052CC?style=flat&logo=JIRA&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion-IDEA&logoColor=white">
 
 #
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mins00oo&count_private=true&show_icons=true&theme=white)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=[Mins00oo]&count_private=true&show_icons=true&theme=white)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mins00oo&layout=compact&theme=white)
 
