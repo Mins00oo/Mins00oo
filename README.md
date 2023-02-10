@@ -20,4 +20,4 @@
 
 #
 ![Anurag's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mins00oo&count_private=true&show_icons=true&theme=white)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mins00oo&show_icons=true&locale=en&layout=compact" alt="mins00oo" />
